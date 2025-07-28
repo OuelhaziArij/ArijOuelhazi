@@ -1,9 +1,6 @@
 # Ouelhazi Arij
 Mon profil GitHub
 ### 👋 Salut
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact)
-![Visitor Count](https://profile-counter.glitch.me/TON_PSEUDO/count.svg)
-![Ma photo]([URL_DE_TA_PHOTO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elite-formation.com%2Fcursus-metier%2Fdeveloppeur-web-avec-nodejs%2F&psig=AOvVaw1_7igXLcZndOi3rqiV0RDJ&ust=1753791598755000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDUxorF344DFQAAAAAdAAAAABAK))
 
 💻 Développeuse passionnée par le web, le backend, les systèmes et les réseaux  
 🎓 Je maîtrise plusieurs langages et technologies, du développement frontend jusqu’à la ligne de commande Linux.
