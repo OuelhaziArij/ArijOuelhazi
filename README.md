@@ -8,15 +8,14 @@ Mon profil GitHub
 ### 💼 Compétences techniques
 
 - 🌐 **Frontend** : HTML5, CSS3, JavaScript (DOM, événements, animations)
-- 🛠️ **Backend** : PHP, Python, Node.js (bases), gestion des formulaires, base de données
-- 🖥️ **Langages système & objets** : C, Java
+- 🛠️ **Backend** : PHP, Python, gestion des formulaires, base de données
+- 🖥️ **Langages système & objets** : C
 - 🧠 **Systèmes et réseau** : Linux (bash, commandes, permissions), notions de réseau (principe de base)
-- ⚙️ **Outils** : GitHub, Visual Studio Code, XAMPP, Figma (pour prototypage)
+- ⚙️ **Outils** :  Visual Studio Code, XAMPP
 
 ### 🚀 Projets réalisés / en cours
 
 - 🧮 Calculatrice web responsive
-- 🌤️ Application météo JS avec API (En cours)
 - 🔐 Formulaire de login sécurisé (PHP/MySQL)
 - 📁 Explorateur de fichiers en ligne
 - 🐧 Scripts Bash sur Linux (automatisation, gestion des utilisateurs)
