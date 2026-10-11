@@ -1,33 +1,78 @@
-# Ouelhazi Arij
-Mon profil GitHub
-### 👋 Salut
+# Salut, je suis Arij Ouelhazi 👋
 
-💻 Développeuse passionnée par le web, le backend, les systèmes et les réseaux  
-🎓 Je maîtrise plusieurs langages et technologies, du développement frontend jusqu’à la ligne de commande Linux.
+**Développeuse Full Stack | Étudiante en 3ème année de Développement des Systèmes d'Information (ISET Nabeul)**
 
-### 💼 Compétences techniques
+Je conçois des applications web sécurisées et évolutives, du backend Java/Spring Boot au frontend Angular, avec un intérêt croissant pour la **Data Science et le Machine Learning**. À la recherche d'un **stage de fin d'études (PFE)** pour contribuer à des projets concrets et continuer à progresser aux côtés d'une équipe technique.
 
-- 🌐 **Frontend** : HTML5, CSS3, JavaScript (DOM, événements, animations)
-- 🛠️ **Backend** : PHP, Python, gestion des formulaires, base de données
-- 🖥️ **Langages système & objets** : C
-- 🧠 **Systèmes et réseau** : Linux (bash, commandes, permissions), notions de réseau (principe de base)
-- ⚙️ **Outils** :  Visual Studio Code, XAMPP
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arij_Ouelhazi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arij-ouelhazi-332540363)
+[![Kaggle](https://img.shields.io/badge/Kaggle-ouelhaziarij-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ouelhaziarij)
+[![Email](https://img.shields.io/badge/Email-welhaziarij@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:welhaziarij@gmail.com)
 
-### 🚀 Projets réalisés / en cours
+---
 
-- 🧮 Calculatrice web responsive
-- 🔐 Formulaire de login sécurisé (PHP/MySQL)
-- 📁 Explorateur de fichiers en ligne
-- 🐧 Scripts Bash sur Linux (automatisation, gestion des utilisateurs)
+## 🧰 Compétences techniques
 
-### 📫 Me contacter
+| Domaine | Technologies |
+|---|---|
+| **Back-end** | Java, Spring Boot, Spring Security, JPA/Hibernate, PHP, Symfony, Python, C |
+| **Front-end** | Angular, JavaScript, HTML5, CSS3 |
+| **Data & Machine Learning** | Python, Scikit-learn, YOLOv11 (Ultralytics), Weights & Biases, Power BI, Web Scraping |
+| **Bases de données** | MySQL, JDBC, UML, MERISE |
+| **Sécurité & authentification** | JWT, OAuth2, Keycloak |
+| **Outils** | Git, Linux (Bash), VS Code, Figma, XAMPP |
+| **En apprentissage** | Docker, Flutter, notions de Cloud et Big Data |
 
-📧 Email : arijwelhazi7@gmail.com 
-🌍 GitHub :[https://github.com/OuelhaziArij](https://github.com/OuelhaziArij)
-🌐 En cours : création d’un portfolio en ligne
+---
 
-### ✨ Objectifs
+## 🚀 Projets sélectionnés
 
-- Approfondir React Native & Firebase  
-- Apprendre Docker et le déploiement cloud  
-- Contribuer à l’open source sur GitHub
+### Application Web Full Stack
+`Spring Boot 3` `Angular` `Spring Security` `Keycloak`
+
+Application de gestion (Vêtements, Collections) avec CRUD complet, authentification **JWT** et gestion des rôles Admin / Agent / User. Upload d'images, vérification par email et authentification unique (SSO) via **OAuth2 (GitHub)** et **Keycloak**.
+
+### Classification d'images de véhicules (Deep Learning)
+`YOLOv11` `Python` `Ultralytics` `Weights & Biases`
+
+Entraînement d'un modèle de classification d'images à partir d'un dataset Kaggle. Plus de 20 expériences d'optimisation d'hyperparamètres (optimiseurs SGD/AdamW, taux d'apprentissage, augmentation de données), avec suivi et comparaison des performances via W&B.
+
+### Web Scraping & Dashboard Power BI
+`Python` `Power BI`
+
+Collecte automatisée de données par web scraping, puis conception d'un tableau de bord Power BI interactif intégrant au moins 4 types de visualisations analytiques.
+
+### Prédiction de prix immobiliers
+`Python` `Scikit-learn`
+
+Pipeline de données complet : téléchargement et extraction automatisés, prétraitement et développement d'un modèle prédictif.
+
+### AirTracker : surveillance de la qualité de l'air
+`Java` `JavaFX` `JDBC`
+
+Application de bureau de suivi de la qualité de l'air : graphiques dynamiques, base de données JDBC, alertes par seuils et prédictions via une hiérarchie de classes orientée objet.
+
+### Plateforme E-Commerce
+`Symfony` `PHP` `MySQL`
+
+Boutique en ligne avec gestion CRUD des produits et catégories, panier, commandes, paiement et authentification des utilisateurs.
+
+---
+
+## 💼 Expérience
+
+- **Stagiaire en développement logiciel, Lloyd Assurances** (janvier 2026) : application de gestion RH interne (authentification, CRUD départements/employés, création automatique des comptes utilisateurs).
+- **Stagiaire en développement logiciel, Only Soft** (juin à septembre 2025) : développement et maintenance d'un site web dynamique (HTML, CSS, JavaScript, PHP, MySQL).
+- **Stagiaire, Only Soft** (janvier 2025) : immersion transversale (service commercial, maintenance informatique, observation de l'analyse des besoins et de la modélisation MERISE).
+
+---
+
+## 🎯 Objectifs
+
+- Réaliser mon **PFE** en développement Full Stack ou en Data Science / Machine Learning
+- Approfondir Docker, le déploiement Cloud et les pratiques DevOps
+- Développer mes compétences en développement mobile (Flutter) et en Deep Learning
+- Contribuer à des projets open source
+
+---
+
+📫 **Ouverte aux opportunités de stage PFE.** N'hésitez pas à me contacter via LinkedIn ou par email.
