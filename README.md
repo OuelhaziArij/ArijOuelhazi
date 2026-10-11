@@ -58,6 +58,12 @@ Boutique en ligne avec gestion CRUD des produits et catégories, panier, command
 
 ---
 
+## 🏅 Kaggle
+
+Profil actif sur [Kaggle](https://www.kaggle.com/ouelhaziarij) depuis septembre 2025 : badges **Python Coder**, **Dataset Creator** et **Dataset Pipeline Creator**, obtenus en publiant des notebooks et des datasets.
+
+---
+
 ## 💼 Expérience
 
 - **Stagiaire en développement logiciel, Lloyd Assurances** (janvier 2026) : application de gestion RH interne (authentification, CRUD départements/employés, création automatique des comptes utilisateurs).
